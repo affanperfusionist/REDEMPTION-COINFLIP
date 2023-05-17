@@ -1,2 +1,1 @@
-# coinflipgamebsc
-Coin Flip game full source
+# Redemption coinflip game
